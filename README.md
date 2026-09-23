@@ -1,2 +1,2 @@
-# Diabetes-Detection1
+# Diabetes-Detection
 Predicting Diabetes using ML classifiers 
